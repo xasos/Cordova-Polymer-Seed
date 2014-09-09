@@ -1,4 +1,4 @@
 Cordova-Polymer-Seed
 ====================
 
-Sample app demonstrating Polymer's capabilities on all platforms.
+Seed Project for demonstrating Polymer's capabilities on all platforms.
