@@ -2,11 +2,11 @@
 <widget id="com.xasos.testproject" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>TestProject</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        Seed project for demonstrating Polymer's capabilities on Android/Web.
     </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+    <author email="nirajpant7@gmail.com" href="http://xasos.github.io">
+        Niraj Pant
     </author>
-    <content src="index.html" />
+    <content src="www/index.html" />
     <access origin="*" />
 </widget>
