@@ -1,7 +1,7 @@
 Cordova-Polymer-Seed
 ====================
 
-Seed Project for demonstrating Polymer's capabilities on all platforms.
+Seed project for demonstrating Polymer's capabilities on Android/Web.
 
 ```sh
 # Serve Locally
