@@ -10,3 +10,5 @@ python -m SimpleHTTPServer
 # Build for Android
 cordova build android
 ```
+## License
+[MIT License](LICENSE)
