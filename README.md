@@ -1,7 +1,7 @@
 Cordova-Polymer-Seed
 ====================
 
-Seed project for demonstrating Polymer's capabilities on Android/Web.
+Seed project for demonstrating Polymer's capabilities on Android/Web with Cordova.
 <!--
 <img src="http://i.imgur.com/f5UxZn8.png"></img>
 -->
